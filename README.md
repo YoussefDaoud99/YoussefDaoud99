@@ -15,8 +15,11 @@
 
 - :technologist: [Neoxia](https://neoxia.com/fr/activities) : Implementation of NLP and Statistical methods for stemmatology (The reconstruction of the
 historical transmission of manuscripts).
+  -  `NLP` `Statistics` `Spacy` `Sentence-BERT` `Git` `pytest` `Python` 
 - :mag: [Neoxia - Perno-Ricard](https://neoxia.com/fr/activities) : Outlets discovery.
+  - `Google-API` `Optimization` `Geometry` `Python` 
 - :microscope: [G-SCOP Laboratory](https://g-scop.grenoble-inp.fr/) : Development of a decision support tool for home service rounds planning.
+  - `Java` `Distance Matrix API` `Operational Research` 
 
 ### Some projects
 
