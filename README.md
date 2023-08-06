@@ -14,7 +14,7 @@
 ### Work
 
 - :technologist: [Neoxia](https://neoxia.com/fr/activities) : Implementation of NLP and Statistical methods for stemmatology (The reconstruction of the
-historical transmission of manuscripts).
+historical transmission of manuscripts). ([Recommendation letter](https://drive.google.com/file/d/1hLxZekwkSKc6vqGI4yBLUcxNvYcHBvTJ/view?usp=drive_link))
   -  `NLP` `Statistics` `Spacy` `Sentence-BERT` `Git` `pytest` `Python` 
 - :mag: [Neoxia - Perno-Ricard](https://neoxia.com/fr/activities) : Outlets discovery.
   - `Google-API` `Optimization` `Geometry` `Python` 
